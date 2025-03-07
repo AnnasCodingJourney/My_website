@@ -1,0 +1,60 @@
+div.headercontainer{
+    font-family: "Roboto";
+    background-color: #1f2937;
+    color: #F9FAF8;
+    display: flex;
+    align-items: normal;
+
+}
+
+div.text{
+  display: flex;
+  width: 300px;
+  height: 300px;
+  padding-top: 10px;
+  padding-left: 300px;
+  flex-wrap: wrap;
+  align-self: center;
+  align-items: flex-start ;
+}
+
+.logo{
+  margin-bottom: 100px;
+  margin-top: -100px;
+  align-self: flex-start;
+}
+
+.image{
+  display: flex;
+  margin-top: 100px;
+}
+
+.headerlink{
+  align-self: flex-start;
+  margin-top: -95px;
+}
+
+.button{
+  background-color: #3882F6;
+  color: #F9FAF8;
+  border-radius: 12px;
+  width: auto;
+  height: 40px;
+}
+
+a{
+  color: #F9FAF8;
+}
+
+.test{
+  display: flex;
+}
+
+p.testlogo{
+  padding-left: 300px;
+
+}
+
+
+
+
