@@ -18,6 +18,7 @@ div.text{
   align-items: flex-start ;
 }
 
+
 .logo{
   margin-bottom: 100px;
   margin-top: -100px;
@@ -54,6 +55,21 @@ p.testlogo{
   padding-left: 300px;
 
 }
+
+
+
+.row{
+  display: flex;
+  padding-top: 10px;
+  padding-left: 300px;
+
+}
+
+.item1{
+  display: flex ;
+  padding-right: 100px;
+}
+
 
 
 
