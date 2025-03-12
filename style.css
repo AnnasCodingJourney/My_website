@@ -67,10 +67,50 @@ p.testlogo{
 
 .item1{
   display: flex ;
-  padding-right: 100px;
+  padding-right: 200px;
 }
 
+.text2{
+  
+  width: 200px;
+  
+   ;
 
+}
+.text3{
+  
+  width: 200px;
+  padding-left: 100px;
+
+}
+
+.text4{
+  width: 200px;
+  padding-left: 100px;
+}
+
+.text5{
+  width: 200px;
+  padding-left: 100px;
+}
+
+.container{
+  font-family: "Roboto";
+    background-color: #E5E7EB;
+    color: #1F2937;
+    display: flex;
+    align-items: normal;
+}
+
+.item2{
+  display: flex ;
+  padding-left: 200px;
+}
+
+.item3{
+  display: flex ;
+  padding-left: 300px;
+}
 
 
 
