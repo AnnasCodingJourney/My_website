@@ -28,6 +28,7 @@ div.text{
 .image{
   display: flex;
   margin-top: 100px;
+  
 }
 
 .headerlink{
@@ -112,5 +113,30 @@ p.testlogo{
   padding-left: 300px;
 }
 
+.calltoaction{
+  font-family: "Roboto";
+  height: 100px;
+  width: 900px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    display: flex;
+    align-items: normal;
+
+}
+
+.button2{
+  background-color: #1F2937;
+  color: #3882F6;
+  border-radius: 12px;
+  width: auto;
+  height: 40px;
+  margin-left: 60px;
+  margin-bottom: 20px;
+
+}
 
 
+.calltoactiontext{
+  padding-left: 200px;
+  padding-top: 20px;
+}
